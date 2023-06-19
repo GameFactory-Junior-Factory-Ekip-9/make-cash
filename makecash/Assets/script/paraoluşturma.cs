@@ -65,8 +65,8 @@ public class paraoluşturma : MonoBehaviour
             }
 
             yeniMateryal.SetActive(true);
-            money yeniMateryalKontrol = yeniMateryal.GetComponent<money>();
-           yeniMateryalKontrol.zamanAraligi = zamanAraligi;
+            paraoluşturma yeniMateryalKontrol = yeniMateryal.GetComponent<paraoluşturma>();
+            yeniMateryalKontrol.zamanAraligi = zamanAraligi;
 
         }
     }
