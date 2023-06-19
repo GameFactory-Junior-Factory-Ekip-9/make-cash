@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - silver_coin
+  - gold_coin
+  - gray_money
+  - green_money
   layers:
   - Default
   - TransparentFX
